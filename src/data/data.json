@@ -1,0 +1,17 @@
+{
+  "firstName" : "Ferley Esteban",
+  "lastName": "Arias Pulido",
+  "title": "Frontend Developer",
+  "resume": "",
+  "skills":[
+    
+  ],
+  "projects": [
+    {
+      "name": "Ajedrez Web",
+      "description": "Ajedrez web creado con HTML, CSS y JavaScript vanilla. Creado para mejor comprension de estos lenguajes",
+      "repository": "https://github.com/FerleyArias/ajedrez-web",
+      "page": "https://ferleyarias.github.io/ajedrez-web/"
+    }
+  ]
+}
